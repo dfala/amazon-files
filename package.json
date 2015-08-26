@@ -1,0 +1,21 @@
+{
+  "name": "amazon-files",
+  "version": "1.0.0",
+  "description": "Tutorial on storing files through Amazon S3.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "aws-sdk": "^2.1.36",
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0",
+    "mongoose": "^4.0.6"
+  }
+}
+
+
